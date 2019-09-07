@@ -1,7 +1,7 @@
 # Description
 
-The code in this repository is a complement to the paper [Practical universal _k_-mer sets for minimizer schemes](https://www.biorxiv.org/content/10.1101/652925v1).
-Its provide a C++ library to read and query the _k_-mer data files available on Zonodo ([sK2-sK6](https://zenodo.org/record/3385067), [sK7-sK10](https://zenodo.org/record/3385069)).
+The code in this repository is a complement to the paper [Practical universal _k_-mer sets for minimizer schemes](https://dl.acm.org/citation.cfm?id=3342144).
+Its provide a C++ library to read and query the _k_-mer data files available on Zonodo ([All General and Human sK2-sK6](https://zenodo.org/record/3385067), [Human sK7-sK10](https://zenodo.org/record/3385069)).
 
 # Usage
 
